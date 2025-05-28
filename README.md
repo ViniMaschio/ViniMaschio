@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Vinicius Ribeiro Maschio
 
-<!--
-**ViniMaschio/ViniMaschio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNIFUNEC**  
+🎂 Tenho 30 anos e sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de software.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que utilizo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Delphi** – aplicações desktop e integração com Firebase  
+- 🌐 **React** & **Angular** – desenvolvimento front-end moderno e responsivo  
+- 🐘 **PHP** – back-end e aplicações web dinâmicas  
+- 📱 **Flutter** – desenvolvimento mobile multiplataforma
+
+## 💼 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-ribeiro-maschio-338890123/)
+
+---
+
+🔍 Estou sempre em busca de novos desafios e oportunidades para crescer na área de desenvolvimento.  
+Seja bem-vindo(a) ao meu GitHub!
