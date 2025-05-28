@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Vinicius Ribeiro Maschio
+# 👋 Olá!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pela **UNIFUNEC**  
 🎂 Tenho 30 anos e sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de software.
