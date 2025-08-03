@@ -7,7 +7,7 @@
 
 - 💻 **Delphi** – aplicações desktop e integração com Firebase  
 - 🌐 **React** & **Angular** – desenvolvimento front-end moderno e responsivo  
-- 🐘 **PHP** – back-end e aplicações web dinâmicas  
+- 🐘 **PHP** & **Laravel** – back-end e aplicações web dinâmicas  
 - 📱 **Flutter** – desenvolvimento mobile multiplataforma
 - ⚙️ **C#** – aplicações desktop, back-end e APIs com .NET
 
